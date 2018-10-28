@@ -1,4 +1,4 @@
-# cautious-meme: https://github.com/badgerbricker/cautious-meme
+# laughing-octo-waffle: https://github.com/SukyoungCho/laughing-octo-waffle
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
