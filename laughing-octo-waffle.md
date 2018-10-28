@@ -12,12 +12,12 @@
        * GitHub username 3: AlexanderPawlowski      name 3: Alex Pawlowski
        * GitHub username 4: cptn-neemo              name 4: Max Huddleston
        * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * When did you complete this exercise? Monday, October 29th, 2018. 
+   * How long did it take your team to complete this exercise? 2 hours.
 
 ## Table of Contents
 
-1. README.md - overview of files in this repository (this file)
+1. laughing-octo-waffle.md - overview of files in this repository (this file)
 2. TODO.md - contains instructions for what to do for this assignment
 3. rules.md - documents the rules for your team
 4. proposal.md - a project proposal written by your team
